@@ -9,11 +9,10 @@ console.log("Hey, I'm Erick!")
 ![Open to Remote](https://img.shields.io/badge/open%20to-remote%20roles-238636?style=flat-square)
 
 ---
-
-**Erick Gasper Alfonce** — Founder & CEO @ [IklwaLabs](https://github.com/ericalfonce)  
+ 
 Building tools that keep East African businesses secure.
 
-Final-year Cybersecurity & Digital Forensics student @ Arusha Technical College.  
+ 
 Obsessed with web vuln scanning, East African fintech, and payment integrations.
 
 ---
