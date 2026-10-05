@@ -42,7 +42,6 @@ Obsessed with web vuln scanning, East African fintech, and payment integrations.
 | [**MulikaScans**](https://mulikascans.com) | Web vulnerability scanning SaaS for East African SMEs |
 | **ScholarReport** | School results & reporting system |
 | **TunuPay** | Agri-finance savings platform |
-| **GoalRank** | World Cup prediction game |
 
 ---
 
