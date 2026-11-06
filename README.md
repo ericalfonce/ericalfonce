@@ -77,12 +77,12 @@ Focused on **web vulnerability scanning**, **East African fintech**, and **payme
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericalfonce&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&ring_color=1f6feb" alt="Erick's GitHub stats" height="165">
+  <img src="./profile/stats.svg" alt="Erick's GitHub stats" height="165">
   <img src="https://streak-stats.demolab.com?user=ericalfonce&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=79c0ff&sideLabels=79c0ff&dates=8b949e" alt="GitHub Streak" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericalfonce&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" height="165">
+  <img src="./profile/top-langs.svg" alt="Top languages" height="165">
 </p>
 
 ---
