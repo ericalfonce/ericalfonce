@@ -15,7 +15,7 @@ console.log("Hey, I'm Erick!")
   &nbsp;
   <img src="https://img.shields.io/badge/open%20to-remote%20roles-238636?style=flat-square" alt="Open to remote roles">
   &nbsp;
-  <img src="https://img.shields.io/badge/IklwaLabs-iklwalabs.co.tz-0d1117?style=flat-square&logoColor=white" alt="IklwaLabs">
+  <a href="https://iklwalabs.co.tz"><img src="https://img.shields.io/badge/IklwaLabs-iklwalabs.co.tz-0d1117?style=flat-square&logoColor=white" alt="IklwaLabs"></a>
 </p>
 
 ---
@@ -32,18 +32,32 @@ Focused on **web vulnerability scanning**, **East African fintech**, and **payme
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
 
 **Frameworks**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Infrastructure**
+**Frontend & Build**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
+
+**Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57)
+
+**Infrastructure & Deploy**
+
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
 
 **Payments**
 
@@ -57,8 +71,8 @@ Focused on **web vulnerability scanning**, **East African fintech**, and **payme
 
 | Project | Description |
 |---|---|
-| [**MulikaScans**](https://mulikascans.com) | Web vulnerability scanning SaaS for East African SMEs |
-| **ScholarReport** | School results & reporting system |
+| [**MulikaScans**](https://mulikascans.com) | AI-powered web vulnerability scanner for African SMEs |
+| [**ScholarReport**](https://scholarreports.iklwalabs.co.tz) | School results, term reports & clearance certificates for Tanzanian secondary schools |
 | **TunuPay** | Agri-finance savings platform |
 
 ---
@@ -70,11 +84,11 @@ Focused on **web vulnerability scanning**, **East African fintech**, and **payme
 ---
 
 <p align="center">
+  <a href="https://iklwalabs.co.tz"><img src="https://img.shields.io/badge/IklwaLabs-0d1117?style=flat-square&logoColor=white" alt="IklwaLabs"></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/eric-alfonce/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
   &nbsp;
   <a href="https://github.com/ericalfonce"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   &nbsp;
   <a href="https://www.instagram.com/ericalfonce/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
-  &nbsp;
-  <a href="https://iklwalabs.co.tz"><img src="https://img.shields.io/badge/IklwaLabs-0d1117?style=flat-square&logoColor=white" alt="IklwaLabs"></a>
 </p>
